@@ -5,7 +5,7 @@
 
   \header {
     title = "貝殻節（とりあえず）"
-    tagline = ""
+    tagline = "http://amadanmath.github.io/japan/music/2013/07/30/kaigarabushi/"
     raggedright = ##t
   }
 \score {
